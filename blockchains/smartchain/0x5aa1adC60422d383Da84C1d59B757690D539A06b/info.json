@@ -1,0 +1,25 @@
+{
+    "name": "Green Token",
+    "type": "BEP20",
+    "symbol": "GT",
+    "decimals": 6,
+    "description": "GT Coin is a high-performance, community-driven asset built for longevity on the Binance Smart Chain, featuring auto-liquidity and marketing protocols.",
+    "website": "https://gtcoin.space",
+    "explorer": "https://bscscan.com/token/0x5aa1adC60422d383Da84C1d59B757690D539A06b",
+    "status": "active",
+    "id": "0x5aa1adC60422d383Da84C1d59B757690D539A06b",
+    "links": [
+        {
+            "name": "whitepaper",
+            "url": "https://gtcoin.space/whitepaper.pdf"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/GTTOKENN"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/GTToken"
+        }
+    ]
+}
